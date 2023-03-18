@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wialBxUbwQEtNtQNSWCDLUJkTwLpKRk+IskHuqJVzmM=",
+  "Source": "MedicineWebAPI",
+  "BasePath": "_content/MedicineWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
